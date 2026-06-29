@@ -8,7 +8,7 @@
 ## 1. GitHub 仓库地址
 
 ```
-https://github.com/Wuyi-star/MobileSoftwareDevelopment
+https://github.com/Wuyi-star/2025003016-FinalProject
 ```
 
 ---
